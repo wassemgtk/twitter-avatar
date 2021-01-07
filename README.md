@@ -6,7 +6,6 @@
   Artwork by <a href="https://dribbble.com/Greg_Grigoriou">Greg Grigoriou</a>
 </p>
 
-&nbsp;
 
 #### why?
 
